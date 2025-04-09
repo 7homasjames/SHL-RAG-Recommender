@@ -168,10 +168,10 @@ async def search(query: str):
 # ---------- Startup Loader ----------
 def auto_push_job_data():
     try:
-        file_path = "job_descriptions.json"
+        file_path = "backend/job_descriptions.json"
         if os.path.exists(file_path):
             print("📤 Indexing job_descriptions.json into ChromaDB...")
-            json_files = ["job_descriptions.json", "job_descriptions_1.json"]
+            json_files = ["backend/job_descriptions.json", "backend/job_descriptions_1.json"]
             data = prepare_jsons_for_rag(json_files)
             from fastapi.testclient import TestClient
             client = TestClient(app)
