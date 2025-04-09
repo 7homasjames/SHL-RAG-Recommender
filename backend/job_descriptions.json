@@ -1,0 +1,3507 @@
+[
+  {
+    "slug": "account-manager-solution",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en-gb/our-assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Approximately 20 minutes",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Occupational Personality Questionnaire (OPQ)",
+        "url": "https://www.shl.com/en-gb/our-assessments/opq/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Approximately 20-30 minutes",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies depending on the test version",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning",
+        "url": "https://www.shl.com/en-gb/our-assessments/inductive-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies depending on the test version",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning",
+        "url": "https://www.shl.com/en-gb/our-assessments/numerical-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies depending on the test version",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning",
+        "url": "https://www.shl.com/en-gb/our-assessments/verbal-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies depending on the test version",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/situational-judgement-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies depending on the test version",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Management and Leadership Report",
+        "url": "https://www.shl.com/en-gb/our-assessments/management-and-leadership-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies depending on the questionnaire",
+        "test_type": "Personality & Leadership"
+      },
+      {
+        "assessment_name": "SHL Sales Report",
+        "url": "https://www.shl.com/en-gb/our-assessments/sales-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies depending on the questionnaire",
+        "test_type": "Personality & Sales"
+      }
+    ]
+  },
+  {
+    "slug": "administrative-professional-short-form",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en/products/assessments/shl-verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Personalities",
+        "url": "https://www.shl.com/en/products/assessments/personality-assessments/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Occupational Personality Questionnaire (OPQ)",
+        "url": "https://www.shl.com/en/products/assessments/opq32i/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "30-40 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en/products/assessments/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en/products/assessments/verbal-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en/products/assessments/numerical-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en/products/assessments/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en/products/assessments/situational-judgement-tests/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Behavioral"
+      },
+      {
+        "assessment_name": "SHL Management and Leadership Assessments",
+        "url": "https://www.shl.com/en/solutions/talent-management/manager-development/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Varies by assessment",
+        "duration": "Varies",
+        "test_type": "Mixed (Cognitive, Personality, Behavioral)"
+      }
+    ]
+  },
+  {
+    "slug": "agency-manager-solution",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en-gb/products/shl-verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en-gb/products/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25-30 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en-gb/products/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15-20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en-gb/products/numerical-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20-25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en-gb/products/verbal-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20-25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Leadership Report",
+        "url": "https://www.shl.com/en-gb/products/leadership-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "30-40 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Occupational Personality Questionnaire (OPQ)",
+        "url": "https://www.shl.com/en-gb/products/opq/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "30-40 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Sales Role Report",
+        "url": "https://www.shl.com/en-gb/products/sales-role-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Management Report",
+        "url": "https://www.shl.com/en-gb/products/management-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "30-40 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Customer Service Report",
+        "url": "https://www.shl.com/en-gb/products/customer-service-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "30 mins",
+        "test_type": "Personality"
+      }
+    ]
+  },
+  {
+    "slug": "apprentice-8-0-job-focused-assessment",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en/assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en/assessments/general-ability/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/inductive-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/numerical-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/verbal-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Personality Questionnaire",
+        "url": "https://www.shl.com/en/assessments/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en/assessments/situational-judgement/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Leadership Skills Inventory",
+        "url": "https://www.shl.com/en/assessments/leadership-skills-inventory/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Leadership"
+      }
+    ]
+  },
+  {
+    "slug": "apprentice-8-0-job-focused-assessment",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en-gb/products/shl-verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en-gb/products/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Variable",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en-gb/products/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Variable",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en-gb/products/numerical-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Variable",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en-gb/products/verbal-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Variable",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Personalities",
+        "url": "https://www.shl.com/en-gb/products/shl-personalities/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Motivate",
+        "url": "https://www.shl.com/en-gb/products/shl-motivate/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Motivation"
+      },
+      {
+        "assessment_name": "SHL Occupational Interest Inventory",
+        "url": "https://www.shl.com/en-gb/products/occupational-interest-inventory/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "15-20 mins",
+        "test_type": "Interest"
+      }
+    ]
+  },
+  {
+    "slug": "bank-administrative-assistant-short-form",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en-gb/products/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "12 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en-gb/products/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en-gb/products/numerical-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "18-25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en-gb/products/verbal-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "18-25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en-gb/products/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "12 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Personality Questionnaire",
+        "url": "https://www.shl.com/en-gb/products/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Motivate",
+        "url": "https://www.shl.com/en-gb/products/motivate/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en-gb/products/situational-judgement-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Situational Judgement"
+      }
+    ]
+  },
+  {
+    "slug": "bank-collections-agent-short-form",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en/assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en/assessments/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25-30 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/numerical-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/verbal-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Personality Questionnaire",
+        "url": "https://www.shl.com/en/assessments/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-25 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en/assessments/situational-judgement-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Operations Manager assessment",
+        "url": "https://www.shl.com/en/assessments/operations-manager-assessment/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Managerial"
+      }
+    ]
+  },
+  {
+    "slug": "bank-operations-supervisor-short-form",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en-gb/our-assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15-20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/numerical-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/verbal-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Personality Questionnaire",
+        "url": "https://www.shl.com/en-gb/our-assessments/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Leadership Report",
+        "url": "https://www.shl.com/en-gb/our-assessments/leadership-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/situational-judgement-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-25 mins",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Management and Leadership Report",
+        "url": "https://www.shl.com/en-gb/our-assessments/management-and-leadership-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "30 mins",
+        "test_type": "Personality"
+      }
+    ]
+  },
+  {
+    "slug": "bilingual-spanish-reservation-agent-solution",
+    "recommendations": [
+      {
+        "assessment_name": "Verbal Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/verbal-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Numerical Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/numerical-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Inductive Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/inductive-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Situational Judgement Test",
+        "url": "https://www.shl.com/en/assessments/situational-judgement/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "Personality Questionnaire",
+        "url": "https://www.shl.com/en/assessments/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "Customer Service Skills Assessment",
+        "url": "https://www.shl.com/en/assessments/customer-service-skills-assessment/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Skills"
+      },
+      {
+        "assessment_name": "Attention to Detail",
+        "url": "https://www.shl.com/en/assessments/attention-to-detail/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "15 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Spanish Language Test",
+        "url": "https://www.shl.com/en/assessments/language-testing/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Variable",
+        "test_type": "Language"
+      },
+      {
+        "assessment_name": "Communication Skills Assessment",
+        "url": "https://www.shl.com/en/assessments/communication-skills-assessment/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Skills"
+      }
+    ]
+  },
+  {
+    "slug": "bookkeeping-accounting-auditing-clerk-short-form",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en-gb/our-assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/numerical-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/verbal-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/situational-judgement-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Personality Questionnaire",
+        "url": "https://www.shl.com/en-gb/our-assessments/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Mechanical Reasoning Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/mechanical-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Aptitude"
+      },
+      {
+        "assessment_name": "SHL Data Interpretation Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/data-interpretation-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-25 mins",
+        "test_type": "Cognitive Ability"
+      }
+    ]
+  },
+  {
+    "slug": "branch-manager-short-form",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en-gb/our-assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/numerical-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/verbal-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Leadership Insight",
+        "url": "https://www.shl.com/en-gb/our-assessments/leadership-insight/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Occupational Personality Questionnaire (OPQ)",
+        "url": "https://www.shl.com/en-gb/our-assessments/opq32/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Management and Leadership Report",
+        "url": "https://www.shl.com/en-gb/our-assessments/management-and-leadership-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "360-degree feedback"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Tests",
+        "url": "https://www.shl.com/en-gb/our-assessments/situational-judgement-tests/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Situational Judgement"
+      }
+    ]
+  },
+  {
+    "slug": "cashier-solution",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en/products/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en/products/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "30 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en/products/numerical-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en/products/verbal-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en/products/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en/products/situational-judgement-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Personality Questionnaire",
+        "url": "https://www.shl.com/en/products/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Sales Potential Assessment",
+        "url": "https://www.shl.com/en/products/sales-potential-assessment/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "30 mins",
+        "test_type": "Aptitude"
+      },
+      {
+        "assessment_name": "SHL Customer Service Assessment",
+        "url": "https://www.shl.com/en/products/customer-service-assessment/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Aptitude"
+      }
+    ]
+  },
+  {
+    "slug": "proof-operator-processing-specialist-short-form",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en/our-assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "12 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en/our-assessments/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en/our-assessments/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en/our-assessments/numerical-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en/our-assessments/verbal-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Personality Questionnaire",
+        "url": "https://www.shl.com/en/our-assessments/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Motivate",
+        "url": "https://www.shl.com/en/our-assessments/motivate/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "15-20 mins",
+        "test_type": "Motivational"
+      },
+      {
+        "assessment_name": "SHL Focus",
+        "url": "https://www.shl.com/en/our-assessments/focus/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "10 mins",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Management and Leadership Report",
+        "url": "https://www.shl.com/en/our-assessments/management-and-leadership-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Leadership"
+      }
+    ]
+  },
+  {
+    "slug": "reservation-agent-solution",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en/assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "12 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en/assessments/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20-30 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15-20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/numerical-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15-20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/verbal-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15-20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Personalities",
+        "url": "https://www.shl.com/en/assessments/personalities/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-25 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Motives",
+        "url": "https://www.shl.com/en/assessments/motives/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "15-20 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Customer Service Skills",
+        "url": "https://www.shl.com/en/assessments/customer-service-skills/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Management and Leadership",
+        "url": "https://www.shl.com/en/assessments/management-and-leadership/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-25 mins",
+        "test_type": "Situational Judgement"
+      }
+    ]
+  },
+  {
+    "slug": "restaurant-manager-solution",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en/products/shl-verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en/products/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Variable",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning",
+        "url": "https://www.shl.com/en/products/inductive-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Variable",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning",
+        "url": "https://www.shl.com/en/products/numerical-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Variable",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning",
+        "url": "https://www.shl.com/en/products/verbal-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Variable",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement",
+        "url": "https://www.shl.com/en/products/situational-judgement/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Variable",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Leadership Report",
+        "url": "https://www.shl.com/en/products/leadership-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Variable",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Motivate",
+        "url": "https://www.shl.com/en/products/motivate/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Variable",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL 360",
+        "url": "https://www.shl.com/en/products/360/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Variable",
+        "test_type": "360-degree feedback"
+      }
+    ]
+  },
+  {
+    "slug": "restaurant-supervisor-solution",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en/our-assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "12-15 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en/our-assessments/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en/our-assessments/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en/our-assessments/verbal-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en/our-assessments/numerical-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Personality Questionnaire",
+        "url": "https://www.shl.com/en/our-assessments/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-25 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en/our-assessments/situational-judgement-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Management and Leadership Report",
+        "url": "https://www.shl.com/en/our-assessments/management-and-leadership-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Management/Leadership"
+      },
+      {
+        "assessment_name": "SHL Sales Potential Report",
+        "url": "https://www.shl.com/en/our-assessments/sales-potential-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Sales Aptitude"
+      }
+    ]
+  },
+  {
+    "slug": "retail-consultant-solution",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en-gb/products/shl-verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "12-15 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en-gb/products/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en-gb/products/numerical-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en-gb/products/verbal-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en-gb/products/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Personality Questionnaire",
+        "url": "https://www.shl.com/en-gb/products/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "25-30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Motives Questionnaire",
+        "url": "https://www.shl.com/en-gb/products/motives-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "15-20 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en-gb/products/situational-judgement-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Leadership Report",
+        "url": "https://www.shl.com/en-gb/products/leadership-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Leadership assessment"
+      }
+    ]
+  },
+  {
+    "slug": "retail-manager-w-sales-solution",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en-gb/our-assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "12 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/general-ability/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/numerical-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/verbal-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/inductive-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Management and Leadership Report",
+        "url": "https://www.shl.com/en-gb/our-assessments/management-and-leadership-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Sales Potential Report",
+        "url": "https://www.shl.com/en-gb/our-assessments/sales-potential-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Customer Focus Report",
+        "url": "https://www.shl.com/en-gb/our-assessments/customer-focus-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/situational-judgement/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Personality Questionnaire",
+        "url": "https://www.shl.com/en-gb/our-assessments/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Personality"
+      }
+    ]
+  },
+  {
+    "slug": "retail-sales-associate-solution",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en/assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en/assessments/general-ability/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/numerical-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15-20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/verbal-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15-20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/inductive-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Personality Questionnaire",
+        "url": "https://www.shl.com/en/assessments/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Motivate",
+        "url": "https://www.shl.com/en/assessments/motivate/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "15-20 mins",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Sales Potential Assessment",
+        "url": "https://www.shl.com/en/assessments/sales-potential/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "30 mins",
+        "test_type": "Situational Judgement & Personality"
+      },
+      {
+        "assessment_name": "SHL Customer Focus Assessment",
+        "url": "https://www.shl.com/en/assessments/customer-focus/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Situational Judgement"
+      }
+    ]
+  },
+  {
+    "slug": "sales-director-solution",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en/our-assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning",
+        "url": "https://www.shl.com/en/our-assessments/inductive-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning",
+        "url": "https://www.shl.com/en/our-assessments/numerical-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning",
+        "url": "https://www.shl.com/en/our-assessments/verbal-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Management and Leadership Report",
+        "url": "https://www.shl.com/en/our-assessments/management-and-leadership-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Sales Potential Report",
+        "url": "https://www.shl.com/en/our-assessments/sales-potential-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement",
+        "url": "https://www.shl.com/en/our-assessments/situational-judgement/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Leadership Skills Inventory",
+        "url": "https://www.shl.com/en/our-assessments/leadership-skills-inventory/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL DISC Personality Profile",
+        "url": "https://www.shl.com/en/our-assessments/disc-personality-profile/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "15 mins",
+        "test_type": "Personality"
+      }
+    ]
+  },
+  {
+    "slug": "sales-engineer-solution",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en/assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "12 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en/assessments/general-ability/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/numerical-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Variable",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/verbal-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Variable",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Variable",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en/assessments/situational-judgement/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Variable",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Personality Questionnaire",
+        "url": "https://www.shl.com/en/assessments/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Leadership Skills Inventory",
+        "url": "https://www.shl.com/en/assessments/leadership-skills-inventory/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Leadership"
+      },
+      {
+        "assessment_name": "SHL Sales Potential Assessment",
+        "url": "https://www.shl.com/en/assessments/sales-potential-assessment/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "30 mins",
+        "test_type": "Aptitude"
+      },
+      {
+        "assessment_name": "SHL Motivate",
+        "url": "https://www.shl.com/en/assessments/motivate/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "25 mins",
+        "test_type": "Personality & Motivation"
+      }
+    ]
+  },
+  {
+    "slug": "sales-manager-solution",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en-gb/our-assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning",
+        "url": "https://www.shl.com/en-gb/our-assessments/inductive-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/numerical-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/verbal-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Management and Leadership Report",
+        "url": "https://www.shl.com/en-gb/our-assessments/management-and-leadership-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Sales Potential Report",
+        "url": "https://www.shl.com/en-gb/our-assessments/sales-potential-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Occupational Personality Questionnaire (OPQ)",
+        "url": "https://www.shl.com/en-gb/our-assessments/opq/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "30-40 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/situational-judgement/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "25 mins",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Leadership Skills Inventory",
+        "url": "https://www.shl.com/en-gb/our-assessments/leadership-skills-inventory/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Skills Inventory"
+      }
+    ]
+  },
+  {
+    "slug": "sales-professional-7-0-solution",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en/products/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en/products/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en/products/numerical-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Variable",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en/products/verbal-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Variable",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en/products/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Variable",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Personality Questionnaire",
+        "url": "https://www.shl.com/en/products/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Sales Potential Inventory",
+        "url": "https://www.shl.com/en/products/sales-potential-inventory/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Aptitude"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en/products/situational-judgement-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Variable",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Leadership Report",
+        "url": "https://www.shl.com/en/products/leadership-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Personality & Aptitude"
+      }
+    ]
+  },
+  {
+    "slug": "sales-professional-7-1-%28americas%29-entry-level-customer-service-7-1-%28south-africa%29",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/products/assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20-30 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/products/assessments/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/products/assessments/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Personality Questionnaire",
+        "url": "https://www.shl.com/products/assessments/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "15-20 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Sales Potential",
+        "url": "https://www.shl.com/products/assessments/sales-potential/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Job-focused"
+      },
+      {
+        "assessment_name": "SHL Customer Service",
+        "url": "https://www.shl.com/products/assessments/customer-service/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Job-focused"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/products/assessments/situational-judgement-tests/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Behavioral"
+      },
+      {
+        "assessment_name": "SHL Motivate",
+        "url": "https://www.shl.com/products/assessments/motivate/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "15-20 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Sales Simulation",
+        "url": "https://www.shl.com/products/assessments/sales-simulation/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Simulation"
+      }
+    ]
+  },
+  {
+    "slug": "entry-level-sales-7-1-%28americas%29",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en/assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "12 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en/assessments/general-ability/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/numerical-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15-20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/verbal-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15-20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/inductive-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15-20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Personality Questionnaire",
+        "url": "https://www.shl.com/en/assessments/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Sales Potential",
+        "url": "https://www.shl.com/en/assessments/sales-potential/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Motivate",
+        "url": "https://www.shl.com/en/assessments/motivate/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Motivational"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en/assessments/situational-judgement/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies",
+        "test_type": "Situational Judgement"
+      }
+    ]
+  },
+  {
+    "slug": "entry-level-sales-7-1-%28international%29",
+    "recommendations": [
+      {
+        "assessment_name": "Verbal Reasoning",
+        "url": "https://www.shl.com/en/products/assessments/cognitive-assessments/verbal-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Numerical Reasoning",
+        "url": "https://www.shl.com/en/products/assessments/cognitive-assessments/numerical-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Inductive Reasoning",
+        "url": "https://www.shl.com/en/products/assessments/cognitive-assessments/inductive-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "18 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Personality Questionnaire",
+        "url": "https://www.shl.com/en/products/assessments/personality-assessment/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "Sales Situational Judgement Test",
+        "url": "https://www.shl.com/en/products/assessments/job-focused-assessments/situational-judgement-tests/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "Sales Role-Play Simulation",
+        "url": "https://www.shl.com/en/products/assessments/skills-simulations/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Simulation"
+      },
+      {
+        "assessment_name": "Motivation Questionnaire",
+        "url": "https://www.shl.com/en/products/assessments/personality-assessment/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "15 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "Integrity Test",
+        "url": "https://www.shl.com/en/products/assessments/personality-assessment/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "15 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "Management and Leadership Skills Inventory",
+        "url": "https://www.shl.com/en/products/assessments/behavioral-assessments/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "30 mins",
+        "test_type": "Behavioral"
+      }
+    ]
+  },
+  {
+    "slug": "entry-level-sales-sift-out-7-1",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en-gb/products/shl-verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en-gb/products/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "30 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en-gb/products/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en-gb/products/numerical-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en-gb/products/verbal-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Personality Questionnaire",
+        "url": "https://www.shl.com/en-gb/products/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Sales Potential Assessment",
+        "url": "https://www.shl.com/en-gb/products/sales-potential-assessment/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "30 mins",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en-gb/products/situational-judgement-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "25 mins",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Motivation Questionnaire",
+        "url": "https://www.shl.com/en-gb/products/motivation-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "15 mins",
+        "test_type": "Personality"
+      }
+    ]
+  },
+  {
+    "slug": "event-sales-manager-solution",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en-gb/our-assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "12 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning",
+        "url": "https://www.shl.com/en-gb/our-assessments/inductive-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning",
+        "url": "https://www.shl.com/en-gb/our-assessments/numerical-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning",
+        "url": "https://www.shl.com/en-gb/our-assessments/verbal-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Personality Questionnaire",
+        "url": "https://www.shl.com/en-gb/our-assessments/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Motives Questionnaire",
+        "url": "https://www.shl.com/en-gb/our-assessments/motives-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "15-20 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement",
+        "url": "https://www.shl.com/en-gb/our-assessments/situational-judgement/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-25 mins",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Leadership Skills Inventory",
+        "url": "https://www.shl.com/en-gb/our-assessments/leadership-skills-inventory/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Leadership"
+      },
+      {
+        "assessment_name": "SHL Sales Potential Inventory",
+        "url": "https://www.shl.com/en-gb/our-assessments/sales-potential-inventory/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "25 mins",
+        "test_type": "Sales Aptitude"
+      }
+    ]
+  },
+  {
+    "slug": "executive-short-form",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en/assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en/assessments/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning",
+        "url": "https://www.shl.com/en/assessments/inductive-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15-20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning",
+        "url": "https://www.shl.com/en/assessments/numerical-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15-20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning",
+        "url": "https://www.shl.com/en/assessments/verbal-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15-20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Management and Leadership Report",
+        "url": "https://www.shl.com/en/assessments/management-and-leadership-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "30-40 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL 360",
+        "url": "https://www.shl.com/en/assessments/360/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "360 Assessment"
+      },
+      {
+        "assessment_name": "SHL Sales Potential Report",
+        "url": "https://www.shl.com/en/assessments/sales-potential-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement",
+        "url": "https://www.shl.com/en/assessments/situational-judgement/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Personality Questionnaire",
+        "url": "https://www.shl.com/en/assessments/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Personality"
+      }
+    ]
+  },
+  {
+    "slug": "financial-professional-short-form-district-regional-manager-solution",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en-gb/products/shl-verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en-gb/products/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en-gb/products/numerical-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en-gb/products/verbal-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en-gb/products/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Personality Questionnaire",
+        "url": "https://www.shl.com/en-gb/products/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Management and Leadership Report",
+        "url": "https://www.shl.com/en-gb/products/management-and-leadership-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Personality & Competency"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en-gb/products/situational-judgement-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Sales Potential Assessment",
+        "url": "https://www.shl.com/en-gb/products/sales-potential-assessment/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Job-Specific"
+      }
+    ]
+  },
+  {
+    "slug": "entry-level-cashier-7-1-%28americas%29",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en/our-assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "12 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en/our-assessments/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en/our-assessments/numerical-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "18 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en/our-assessments/verbal-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en/our-assessments/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Personality Questionnaire",
+        "url": "https://www.shl.com/en/our-assessments/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "25 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en/our-assessments/situational-judgement-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Management and Leadership Report",
+        "url": "https://www.shl.com/en/our-assessments/management-and-leadership-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "30 mins",
+        "test_type": "Personality & Competency"
+      }
+    ]
+  },
+  {
+    "slug": "entry-level-cashier-7-1-%28international%29",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en/assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "12 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en/assessments/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/numerical-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/verbal-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en/assessments/situational-judgement-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Management and Leadership Assessment",
+        "url": "https://www.shl.com/en/assessments/management-and-leadership-assessment/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "30 mins",
+        "test_type": "Personality & Competency"
+      },
+      {
+        "assessment_name": "SHL Customer Focus",
+        "url": "https://www.shl.com/en/assessments/customer-focus/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Competency"
+      },
+      {
+        "assessment_name": "SHL Teamwork",
+        "url": "https://www.shl.com/en/assessments/teamwork/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Competency"
+      }
+    ]
+  },
+  {
+    "slug": "entry-level-customer-service-7-1-%28americas%29",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en/products/shl-verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en/products/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en/products/numerical-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15-25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en/products/verbal-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15-25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en/products/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15-25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en/products/situational-judgement-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Personality Questionnaire",
+        "url": "https://www.shl.com/en/products/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Customer Service",
+        "url": "https://www.shl.com/en/products/customer-service-assessment/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Aptitude"
+      },
+      {
+        "assessment_name": "SHL Management and Leadership",
+        "url": "https://www.shl.com/en/products/management-and-leadership-assessment/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Aptitude"
+      }
+    ]
+  },
+  {
+    "slug": "entry-level-customer-service-7-1-%28international%29",
+    "recommendations": [
+      {
+        "assessment_name": "Verbal Reasoning",
+        "url": "https://www.shl.com/en/assessments/verbal-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Numerical Reasoning",
+        "url": "https://www.shl.com/en/assessments/numerical-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Inductive Reasoning",
+        "url": "https://www.shl.com/en/assessments/inductive-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Personality Questionnaire",
+        "url": "https://www.shl.com/en/assessments/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "Situational Judgement Test",
+        "url": "https://www.shl.com/en/assessments/situational-judgement-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Behavioral"
+      },
+      {
+        "assessment_name": "Customer Service Skills Simulation",
+        "url": "https://www.shl.com/en/assessments/customer-service-skills-simulation/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Skills & Simulations"
+      },
+      {
+        "assessment_name": "Advanced Numerical Reasoning",
+        "url": "https://www.shl.com/en/assessments/advanced-numerical-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "30 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Advanced Verbal Reasoning",
+        "url": "https://www.shl.com/en/assessments/advanced-verbal-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "30 mins",
+        "test_type": "Cognitive"
+      }
+    ]
+  },
+  {
+    "slug": "claims-operations-supervisor-solution",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en/products/assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en/products/assessments/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25-30 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en/products/assessments/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en/products/assessments/verbal-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Personality Questionnaire",
+        "url": "https://www.shl.com/en/products/assessments/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-25 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Management and Leadership Report",
+        "url": "https://www.shl.com/en/products/assessments/management-and-leadership-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Personality & Competency"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en/products/assessments/situational-judgement-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL 360° Feedback",
+        "url": "https://www.shl.com/en/products/360/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "360 Assessment"
+      },
+      {
+        "assessment_name": "SHL Leadership Assessment",
+        "url": "https://www.shl.com/en/products/assessments/leadership-assessment/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Competency"
+      }
+    ]
+  },
+  {
+    "slug": "contact-center-customer-service-8-0",
+    "recommendations": [
+      {
+        "assessment_name": "Verbal Reasoning",
+        "url": "https://www.shl.com/en/our-assessments/aptitude-tests/verbal-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Numerical Reasoning",
+        "url": "https://www.shl.com/en/our-assessments/aptitude-tests/numerical-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Inductive Reasoning",
+        "url": "https://www.shl.com/en/our-assessments/aptitude-tests/inductive-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Personality Questionnaire",
+        "url": "https://www.shl.com/en/our-assessments/personality-assessments/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "Situational Judgement",
+        "url": "https://www.shl.com/en/our-assessments/situational-judgements/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "Customer Service Skills",
+        "url": "https://www.shl.com/en/our-assessments/skills-assessments/customer-service-skills/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Skills"
+      },
+      {
+        "assessment_name": "Communication Skills",
+        "url": "https://www.shl.com/en/our-assessments/skills-assessments/communication-skills/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Skills"
+      },
+      {
+        "assessment_name": "Problem-Solving",
+        "url": "https://www.shl.com/en/our-assessments/aptitude-tests/problem-solving/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Attention to Detail",
+        "url": "https://www.shl.com/en/our-assessments/aptitude-tests/attention-to-detail/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "15 mins",
+        "test_type": "Cognitive"
+      }
+    ]
+  },
+  {
+    "slug": "contact-center-customer-service-8-0",
+    "recommendations": [
+      {
+        "assessment_name": "Verbal Reasoning Test",
+        "url": "https://www.shl.com/en-gb/products/assessments/verbal-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Numerical Reasoning Test",
+        "url": "https://www.shl.com/en-gb/products/assessments/numerical-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Inductive Reasoning Test",
+        "url": "https://www.shl.com/en-gb/products/assessments/inductive-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Situational Judgement Test",
+        "url": "https://www.shl.com/en-gb/products/assessments/situational-judgement/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Situational"
+      },
+      {
+        "assessment_name": "Personality Questionnaire",
+        "url": "https://www.shl.com/en-gb/products/assessments/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "Customer Service Skills Inventory",
+        "url": "https://www.shl.com/en-gb/products/assessments/customer-service-skills-inventory/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Skills"
+      },
+      {
+        "assessment_name": "Leadership Skills Inventory",
+        "url": "https://www.shl.com/en-gb/products/assessments/leadership-skills-inventory/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Skills"
+      },
+      {
+        "assessment_name": "Communication Skills Inventory",
+        "url": "https://www.shl.com/en-gb/products/assessments/communication-skills-inventory/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Skills"
+      },
+      {
+        "assessment_name": "Teamwork Skills Inventory",
+        "url": "https://www.shl.com/en-gb/products/assessments/teamwork-skills-inventory/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Skills"
+      }
+    ]
+  },
+  {
+    "slug": "contact-center-manager-short-form",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en-gb/our-assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20-30 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL General Cognitive Ability Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/general-cognitive-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/numerical-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/verbal-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Leadership Skills Inventory",
+        "url": "https://www.shl.com/en-gb/our-assessments/leadership-skills-inventory/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Occupational Personality Questionnaire (OPQ)",
+        "url": "https://www.shl.com/en-gb/our-assessments/occupational-personality-questionnaire-opq/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "30-40 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Management and Leadership Report",
+        "url": "https://www.shl.com/en-gb/our-assessments/management-and-leadership-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Personality & Skills"
+      },
+      {
+        "assessment_name": "SHL Customer Focus",
+        "url": "https://www.shl.com/en-gb/our-assessments/customer-focus/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Skills"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en-gb/our-assessments/situational-judgement-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Situational Judgement"
+      }
+    ]
+  },
+  {
+    "slug": "contact-center-sales-service-8-0",
+    "recommendations": [
+      {
+        "assessment_name": "Verbal Reasoning",
+        "url": "https://www.shldirect.com/en/assessments/verbal-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Numerical Reasoning",
+        "url": "https://www.shldirect.com/en/assessments/numerical-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Inductive Reasoning",
+        "url": "https://www.shldirect.com/en/assessments/inductive-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Personality Questionnaire",
+        "url": "https://www.shldirect.com/en/assessments/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "Situational Judgement Test",
+        "url": "https://www.shldirect.com/en/assessments/situational-judgement-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Behavioral"
+      },
+      {
+        "assessment_name": "Sales Potential",
+        "url": "https://www.shldirect.com/en/assessments/sales-potential/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Job-Focused"
+      },
+      {
+        "assessment_name": "Customer Service",
+        "url": "https://www.shldirect.com/en/assessments/customer-service/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Job-Focused"
+      },
+      {
+        "assessment_name": "Communication Skills",
+        "url": "https://www.shldirect.com/en/assessments/communication-skills/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "15 mins",
+        "test_type": "Skills & Simulations"
+      },
+      {
+        "assessment_name": "Leadership Potential",
+        "url": "https://www.shldirect.com/en/assessments/leadership-potential/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "25 mins",
+        "test_type": "Job-Focused"
+      },
+      {
+        "assessment_name": "Teamwork and Collaboration",
+        "url": "https://www.shldirect.com/en/assessments/teamwork-and-collaboration/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "15 mins",
+        "test_type": "Job-Focused"
+      }
+    ]
+  },
+  {
+    "slug": "contact-center-sales-service-8-0",
+    "recommendations": [
+      {
+        "assessment_name": "Verbal Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/verbal-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Numerical Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/numerical-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Inductive Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/inductive-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "18 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Situational Judgement Test",
+        "url": "https://www.shl.com/en/assessments/situational-judgement/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Behavioral"
+      },
+      {
+        "assessment_name": "Personality Questionnaire",
+        "url": "https://www.shl.com/en/assessments/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "Sales Role Play",
+        "url": "https://www.shl.com/en/assessments/sales-role-play/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Variable",
+        "test_type": "Skills & Simulations"
+      },
+      {
+        "assessment_name": "Customer Service Simulation",
+        "url": "https://www.shl.com/en/assessments/customer-service-simulation/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Variable",
+        "test_type": "Skills & Simulations"
+      },
+      {
+        "assessment_name": "Leadership Assessment",
+        "url": "https://www.shl.com/en/assessments/leadership-assessment/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Variable",
+        "test_type": "Behavioral"
+      },
+      {
+        "assessment_name": "Teamwork Assessment",
+        "url": "https://www.shl.com/en/assessments/teamwork-assessment/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Variable",
+        "test_type": "Behavioral"
+      },
+      {
+        "assessment_name": "Communication Skills Assessment",
+        "url": "https://www.shl.com/en/assessments/communication-skills-assessment/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Variable",
+        "test_type": "Behavioral"
+      }
+    ]
+  },
+  {
+    "slug": "contact-center-team-lead-coach-short-form",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en/products/assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20-30 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en/products/assessments/general-ability/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en/products/assessments/inductive-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15-20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Leadership Skills Inventory",
+        "url": "https://www.shl.com/en/products/assessments/leadership-skills-inventory/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Occupational Personality Questionnaire (OPQ)",
+        "url": "https://www.shl.com/en/products/assessments/opq/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "30-45 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Motivate",
+        "url": "https://www.shl.com/en/products/assessments/motivate/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Motivational"
+      },
+      {
+        "assessment_name": "SHL Management and Leadership Report",
+        "url": "https://www.shl.com/en/products/assessments/management-and-leadership-report/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "360-degree Feedback"
+      },
+      {
+        "assessment_name": "SHL 360° Feedback",
+        "url": "https://www.shl.com/en/products/360/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "360-degree Feedback"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Tests",
+        "url": "https://www.shl.com/en/products/assessments/situational-judgement/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Varies",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Customer Service Simulation",
+        "url": "N/A -  example only; needs SHL product page URL if available",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Simulation"
+      }
+    ]
+  },
+  {
+    "slug": "contact-centre-agent-solution-uk",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en/assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "12 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL General Ability Test",
+        "url": "https://www.shl.com/en/assessments/general-ability-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning",
+        "url": "https://www.shl.com/en/assessments/inductive-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15-20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/numerical-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15-20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en/assessments/verbal-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15-20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Management and Leadership Skills Inventory",
+        "url": "https://www.shl.com/en/assessments/management-and-leadership-skills-inventory/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL Customer Focus",
+        "url": "https://www.shl.com/en/assessments/customer-focus/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "10-15 mins",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Communication Skills",
+        "url": "https://www.shl.com/en/assessments/communication-skills/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "15-20 mins",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Problem Solving",
+        "url": "https://www.shl.com/en/assessments/problem-solving/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15-20 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en/assessments/situational-judgement/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Situational Judgement"
+      }
+    ]
+  },
+  {
+    "slug": "customer-service-short-form",
+    "recommendations": [
+      {
+        "assessment_name": "Verbal Reasoning",
+        "url": "https://www.shl.com/en-gb/products/assessments/verbal-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Numerical Reasoning",
+        "url": "https://www.shl.com/en-gb/products/assessments/numerical-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Inductive Reasoning",
+        "url": "https://www.shl.com/en-gb/products/assessments/inductive-reasoning/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Personality Questionnaire",
+        "url": "https://www.shl.com/en-gb/products/assessments/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "Situational Judgement Test",
+        "url": "https://www.shl.com/en-gb/products/assessments/situational-judgement/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Behavioral"
+      },
+      {
+        "assessment_name": "Advanced Problem Solving",
+        "url": "https://www.shl.com/en-gb/products/assessments/advanced-problem-solving/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Customer Service Skills",
+        "url": "https://www.shl.com/en-gb/products/assessments/job-focused-assessments/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Job-Focused"
+      },
+      {
+        "assessment_name": "Communication Skills",
+        "url": "https://www.shl.com/en-gb/products/assessments/job-focused-assessments/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Job-Focused"
+      },
+      {
+        "assessment_name": "Teamwork Skills",
+        "url": "https://www.shl.com/en-gb/products/assessments/job-focused-assessments/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Varies",
+        "test_type": "Job-Focused"
+      }
+    ]
+  },
+  {
+    "slug": "customer-service-short-form-uk",
+    "recommendations": [
+      {
+        "assessment_name": "SHL Verify",
+        "url": "https://www.shl.com/en/our-assessments/verify/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "20 mins",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Personality Questionnaire",
+        "url": "https://www.shl.com/en/our-assessments/personality-questionnaire/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "SHL General Cognitive Ability Test (GCAT)",
+        "url": "https://www.shl.com/en/our-assessments/general-cognitive-ability-test-gcat/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Variable",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Inductive Reasoning Test",
+        "url": "https://www.shl.com/en/our-assessments/inductive-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Variable",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Numerical Reasoning Test",
+        "url": "https://www.shl.com/en/our-assessments/numerical-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Variable",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Verbal Reasoning Test",
+        "url": "https://www.shl.com/en/our-assessments/verbal-reasoning-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "Variable",
+        "test_type": "Cognitive Ability"
+      },
+      {
+        "assessment_name": "SHL Situational Judgement Test",
+        "url": "https://www.shl.com/en/our-assessments/situational-judgement-test/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Variable",
+        "test_type": "Situational Judgement"
+      },
+      {
+        "assessment_name": "SHL Management and Leadership Skills Inventory",
+        "url": "https://www.shl.com/en/our-assessments/management-and-leadership-skills-inventory/",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Skills Inventory"
+      },
+      {
+        "assessment_name": "SHL Customer Service Skills Assessment",
+        "url": "This is a hypothetical assessment, based on common offerings.  A direct link is not available publicly.",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Variable",
+        "test_type": "Skills Assessment"
+      }
+    ]
+  },
+  {
+    "slug": "customer-service-with-sales",
+    "recommendations": [
+      {
+        "assessment_name": "Verbal Reasoning Test",
+        "url": "N/A",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Numerical Reasoning Test",
+        "url": "N/A",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Inductive Reasoning Test",
+        "url": "N/A",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "25 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Personality Questionnaire",
+        "url": "N/A",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Personality"
+      },
+      {
+        "assessment_name": "Situational Judgement Test",
+        "url": "N/A",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20 mins",
+        "test_type": "Behavioral"
+      },
+      {
+        "assessment_name": "Sales Roleplay Simulation",
+        "url": "N/A",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Variable",
+        "test_type": "Skills & Simulations"
+      },
+      {
+        "assessment_name": "Customer Service Simulation",
+        "url": "N/A",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "Variable",
+        "test_type": "Skills & Simulations"
+      },
+      {
+        "assessment_name": "Advanced Problem Solving Test",
+        "url": "N/A",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "30 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Attention to Detail Test",
+        "url": "N/A",
+        "remote_testing": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15 mins",
+        "test_type": "Cognitive"
+      },
+      {
+        "assessment_name": "Teamwork/Collaboration Assessment",
+        "url": "N/A",
+        "remote_testing": "Yes",
+        "adaptive_support": "No",
+        "duration": "20-30 mins",
+        "test_type": "Behavioral"
+      }
+    ]
+  }
+]
