@@ -6,8 +6,8 @@ Hiring managers often struggle to identify the right SHL assessments for specifi
 
 ## 🚀 Live Demo
 
-- 🔗 Frontend: [shl-frontend-5o9v.onrender.com](https://shl-frontend-5o9v.onrender.com)
-- 🔗 Backend API: [shl-rag-recommender-og.onrender.com](https://shl-rag-recommender-og.onrender.com)
+
+- 🔗 Link: [shl-rag-recommender-og.onrender.com](https://shl-rag-recommender-og.onrender.com)
 
 ---
 
