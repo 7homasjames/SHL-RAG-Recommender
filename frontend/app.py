@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_BASE = "https://shl-rag-recommender.onrender.com"
+API_BASE = "https://shl-rag-recommender.onrender.com" 
 
 # ---------- API Helpers ----------
 def get_context(query):
