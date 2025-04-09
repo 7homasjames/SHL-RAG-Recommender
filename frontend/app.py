@@ -30,7 +30,7 @@ st.title("💼 Job Description QA Assistant")
 st.markdown(
     """
     Ask me anything about job assessments or hiring tests!
-    This app uses **ChromaDB + Sentence Transformers** for retrieval,
+    This app uses **Pinecone + Sentence Transformers** for retrieval,
     and **Google Gemini (1.5 Flash)** for response generation.
     """
 )
