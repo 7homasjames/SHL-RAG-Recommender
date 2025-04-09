@@ -9,7 +9,19 @@ from typing import List
 from pinecone import Pinecone, ServerlessSpec
 from sentence_transformers import SentenceTransformer
 import google.generativeai as genai
+from fastapi.middleware.cors import CORSMiddleware
 
+# ---------- Initialize FastAPI ----------
+app = FastAPI()
+
+# ---------- CORS Middleware ----------
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # ---------- Load Env & Keys ----------
 load_dotenv()
@@ -17,23 +29,16 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 index_name = "shlrag"
 
-# Use existing index (don't try to create)
-
+# ---------- Initialize Models ----------
 GENAI_MODEL_ID = "models/gemini-1.5-flash-latest"
 EMBEDDING_MODEL_NAME = "all-MiniLM-L6-v2"
-
-# ---------- Initialize Models ----------
 genai.configure(api_key=GEMINI_API_KEY)
 generation_model = genai.GenerativeModel(GENAI_MODEL_ID)
 embedding_model = SentenceTransformer(EMBEDDING_MODEL_NAME)
 
-# ---------- Initialize Pinecone (NEW SDK) ----------
+# ---------- Initialize Pinecone ----------
 pc = Pinecone(api_key=PINECONE_API_KEY)
 index = pc.Index(index_name)
-
-
-# ---------- Initialize FastAPI ----------
-app = FastAPI()
 
 # ---------- Utility Functions ----------
 def generate_hash(text):
@@ -70,7 +75,6 @@ def upsert_documents(documents, batch_size=50):
             "metadata": {"text": doc["line"]}
         })
 
-    # Split into batches
     for i in range(0, len(vectors), batch_size):
         batch = vectors[i:i+batch_size]
         print(f"Upserting batch {i//batch_size + 1} of {len(vectors)//batch_size + 1}")
@@ -102,7 +106,6 @@ async def push_docs(item: Docs):
         docs = item.dict()["items"]
         ids = upsert_documents(docs)
         print("Inserted IDs:", ids)
-        print("Documents:", docs)
         return {"status": "success", "inserted_ids": ids}
     except Exception as e:
         return {"error": str(e)}
@@ -112,8 +115,6 @@ async def get_context(item: Query):
     try:
         query_embedding = embedding_model.encode(item.query).tolist()
         results = index.query(vector=query_embedding, top_k=5, include_metadata=True)
-        print("Query Embedding:", query_embedding)
-        print("Results:", results)
         return {
             "docs": [match["metadata"]["text"] for match in results["matches"]]
         }
@@ -151,8 +152,6 @@ async def get_response(item: QA):
 async def search(query: str):
     try:
         query_embedding = embedding_model.encode(query).tolist()
-        print("Search Query Embedding:", query_embedding)
-        print("Search Query:", query)
         results = index.query(vector=query_embedding, top_k=5, include_metadata=True)
         return {
             "query": query,
@@ -169,7 +168,6 @@ def auto_push_job_data():
             print("📤 Indexing job_descriptions.json into Pinecone...")
             json_files = ["job_descriptions.json", "job_descriptions_1.json"]
             data = prepare_jsons_for_rag(json_files)
-            print("Job data prepared for indexing:", data)
             from fastapi.testclient import TestClient
             client = TestClient(app)
             response = client.post("/push_docs/", json=data)
@@ -180,3 +178,5 @@ def auto_push_job_data():
         print("❌ Error pushing job data:", str(e))
 
 threading.Thread(target=auto_push_job_data, daemon=True).start()
+
+
