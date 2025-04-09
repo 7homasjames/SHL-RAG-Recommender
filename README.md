@@ -2,12 +2,7 @@
 
 Hiring managers often struggle to identify the right SHL assessments for specific roles. This project is an intelligent recommendation system powered by a **Retrieval-Augmented Generation (RAG)** pipeline. It enables natural language queries over SHL assessment data and returns curated, structured recommendations to help hiring teams make faster and more informed decisions.
 
----
 
-## 🚀 Live Demo
-
-
-- 🔗 Link: [shl-rag-recommender-og.onrender.com](https://shl-rag-recommender-og.onrender.com)
 
 ---
 
